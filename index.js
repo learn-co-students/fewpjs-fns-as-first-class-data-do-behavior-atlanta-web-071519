@@ -30,7 +30,7 @@ function greet(string){
 }
 
 function displayMessage(string){
-  let greeting = document.getElementById('greeting')
+  let greeting = document.getElementById('greeting')   
   greeting.innerText = string
 }
 
